@@ -1,0 +1,6 @@
+AutoCAD Error: The requested operation cannot be performed on a file with a user-mapped section open.
+
+
+AutoCAD Error: GDI_Plotter_Device::start_document
+The device has reported an unknown error. D:\!PROJECTS\MVS\MarkAnalyzerAutocadPlagin\bin\Debug\Drawing3 Layout1 (1) $Workfile: gdi_plotter_device.cpp $ $Revision: #1 $
+
